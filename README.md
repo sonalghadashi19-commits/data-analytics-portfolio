@@ -1,7 +1,7 @@
 # Data Analytics Portfolio
 
 ## About Me
-Final year Data Science student passionate about turning raw data into business insights.
+Data Science graduate (2026 batch) passionate about turning raw data into business insights.
 **Skills:** Python | SQL | Power BI | Tableau | Machine Learning
 
 ---
