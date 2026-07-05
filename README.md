@@ -48,5 +48,5 @@ End-to-end churn analysis including EDA, SQL queries, ML model and deployed web 
 - Logistic Regression model achieved 79% accuracy
 
 📊 [Tableau Dashboard](https://public.tableau.com/app/profile/sonal.ghadashi/viz/CustomerChurnAnalysis_17831791925210/Dashboard1)
-🚀 Live Churn Predictor App — Coming Soon
+🚀 [Live Churn Predictor App](https://churn-predictor-ds.streamlit.app)
 📁 [Notebook](Customer_Churn_Prediction)
