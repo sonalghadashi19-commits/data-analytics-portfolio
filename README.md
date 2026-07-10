@@ -20,16 +20,15 @@ Performed EDA on 9,800+ retail records to identify key drivers of sales and prof
 
 ---
 
-## Project 2: Hotel Booking Cancellation Analysis
-**Tech Stack:** Python, Pandas, Matplotlib, Seaborn, Power BI
+*Tech Stack:** Python, Pandas, Matplotlib, Seaborn, Power BI
 
-Analyzed 116,715 hotel booking records to identify key drivers of cancellations.
+Analyzed 86,937 hotel booking records (after removing ~32,000 duplicate entries identified as data logging artifacts) to identify key drivers of cancellations.
 
 **Key Insights:**
-- Overall cancellation rate: 37.5%
-- City Hotel cancels more (42.2%) than Resort Hotel (28.3%)
-- Cancelled bookings have 145 days avg lead time vs 81 days for non-cancelled
-- Groups segment has highest cancellation rate (61.7%)
+- Overall cancellation rate: 27.6%
+- City Hotel cancels more (30.4%) than Resort Hotel (24.0%)
+- Cancelled bookings have 106 days avg lead time vs 71 days for non-cancelled
+- Online TA has the highest cancellation rate among market segments (35.6%)
 
 📁 [Notebook](Hotel_Booking_Cancellation_Analysis)
 📊 Power BI Dashboard — see screenshot in repo
