@@ -20,7 +20,7 @@ Performed EDA on 9,800+ retail records to identify key drivers of sales and prof
 
 ---
 
-*Tech Stack:** Python, Pandas, Matplotlib, Seaborn, Power BI
+**Tech Stack:** Python, Pandas, Matplotlib, Seaborn, Power BI
 
 Analyzed 86,937 hotel booking records (after removing ~32,000 duplicate entries identified as data logging artifacts) to identify key drivers of cancellations.
 
