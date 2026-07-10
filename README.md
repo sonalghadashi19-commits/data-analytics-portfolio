@@ -30,7 +30,7 @@ Analyzed 86,937 hotel booking records (after removing ~32,000 duplicate entries 
 - Cancelled bookings have 106 days avg lead time vs 71 days for non-cancelled
 - Online TA has the highest cancellation rate among market segments (35.6%)
 
-📁 [Notebook](Hotel_Booking_Cancellation_Analysis)
+📁 [Notebook](Hotel_Booking_Cancellation_Analysis(1))
 📊 Power BI Dashboard — see screenshot in repo
 ---
 
